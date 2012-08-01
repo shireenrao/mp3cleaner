@@ -1,18 +1,33 @@
 mp3cleaner - tool to rename filenames and cleanup id3 tags on mp3 file
+
     Usage:
+
     -h --help              Prints this
+
     -v --version           Prints version
+
     -a --action            rename (removes the expression from file name)
+
                            cleantag (removes the expression from id3 tags)
+
     -t --target            target to process.
+
                            target can be either a file or a directory
+
                            If not set will process current directory
+
     -e --expression        Expression to clean from the ID3 tags
+
     -p --print             Print all current [tags|filename] of target
+
                            this option ignores investigation
+
     -c --compare           Print prospective changes to [tags|filename] to target
+
                            Ignore this flag to make the change
+
     -i --investiagate      Print current id3 tags and filename of target
+
 
     Example 1:
 
