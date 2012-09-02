@@ -1,4 +1,4 @@
-mp3cleaner - tool to rename filenames and cleanup id3 tags on mp3 file
+mp3cleaner - A tool to rename filenames and cleanup id3 tags on mp3 file
 
     Usage:
 
